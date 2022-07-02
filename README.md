@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, my name's Jordan Myers. 👋
 
+I'm a web developer based in Edmonton, Alberta.
+
+Check out my [portfolio](https://4str0cosmos.github.io/)
+ 
 <!--
 **4str0Cosmos/4str0Cosmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
