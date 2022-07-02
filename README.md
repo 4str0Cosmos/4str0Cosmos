@@ -6,7 +6,7 @@ I'm a web developer based in Edmonton, Alberta.
 Check out my [portfolio](https://4str0cosmos.github.io/)
 
 ## Web Designs
-![snap stock web design](https://github.com/4str0Cosmos/designs/blob/main/web/snap-stock.jpg =x250)
+[snap stock design](https://github.com/4str0Cosmos/designs/blob/main/web/snap-stock.jpg)
 
 <!--
 **4str0Cosmos/4str0Cosmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
