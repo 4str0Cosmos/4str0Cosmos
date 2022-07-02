@@ -1,5 +1,6 @@
 ### Hi there, my name's Jordan Myers. 👋
 
+## 🚀 About me
 I'm a web developer based in Edmonton, Alberta.
 
 Check out my [portfolio](https://4str0cosmos.github.io/)
