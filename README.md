@@ -5,7 +5,7 @@ I'm a web developer based in Edmonton, Alberta.
 
 Check out my [portfolio](https://4str0cosmos.github.io/)
 
-## Web Designs (Designs built with figma)
+## 🖌️🎨 Web Designs (Designs built with figma)
 [snap stock](https://github.com/4str0Cosmos/designs/blob/main/web/snap-stock.jpg)
 
 <!--
